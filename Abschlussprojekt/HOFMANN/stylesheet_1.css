@@ -1,6 +1,6 @@
 body {background-color:#ffe5cc}
-h1 {color:#663100; font-size:20px; text-align:left; padding: 10px; font-family:Verdana;}
-h2 {color:#803e00; font-size:17px; text-align:left; padding: 10px; font-family:Verdana;}
+h1 {color:#663100; font-size:30px; text-align:left; padding: 10px; font-family:Verdana;}
+h2 {color:#803e00; font-size:24px; text-align:left; padding: 10px; font-family:Verdana;}
 h3 {color:#994a00; font-size:15px; text-align:left; padding: 10px; font-family:Verdana}
 h4 {color:#b53600; font-size:13px; text-align:left; padding: 10px; font-family:Verdana}
 header {color: #e66f00; text-align:center; background-color: #ffca99; font-weight: bold; font-family:Arial; padding:18px;}
@@ -15,8 +15,9 @@ p {color:black; font-size:12px; text-align:left; padding: 10px; font-family:Verd
 	border-style: groove;
 	border-color: darkgrey;
 	color: black;
-	font-size: 30px;
-	font-family: Arial, bold;
+	font-size: 40px;
+	font-family: Arial;
+	font-weight: bold;
 }
 
 .box {
@@ -28,8 +29,8 @@ p {color:black; font-size:12px; text-align:left; padding: 10px; font-family:Verd
 }
 
 .box-img {
-  max-width: 150px; /* Breite des Bildes begrenzen */
-  height: auto; /* Seitenverhältnis beibehalten */
+  height: 80px; /* Höhe des Bildes begrenzen */
+  width: auto; /* Seitenverhältnis beibehalten */
 }
 
 ul {
