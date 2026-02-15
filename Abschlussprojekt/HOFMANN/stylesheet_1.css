@@ -6,4 +6,11 @@ h4 {color:violet; font-size:13px; text-align:center; font-family:Verdana}
 header {color: hotpink; text-align:center; background-color: lightpink; font-weight: bold; font-family:Arial;}
 p {color:darkgrey; font-size:12px; text-align:center; font-family:Verdana}
 
-
+.text-im-bild {
+	background-image: url(https://arthrose-journal.de/wp-content/uploads/2014/05/computerarbeit-1028-shutterstock_515369740.jpgttps://arthroe-journal.de/wp-content/uploads/2014/05/computerarbeit-1028-shutterstock_515369740.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 20px;
+	color: white;
+	font-family: Arial, sans-serif;
+}
