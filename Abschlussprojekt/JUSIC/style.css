@@ -1,0 +1,57 @@
+body {
+background-color:MediumSeaGreen;
+}
+
+h1 {
+color: gray;
+font-family: sans-serif;
+font size: 18;
+}
+
+h2 {
+color: SlateBlue;
+font-family: sans-serif;
+font-size: 12;
+}
+
+h3 {
+color: black;
+font-family: sans-serif;
+font-size: 10;
+}
+
+h4 {
+color: black;
+font-family: sans-serif;
+font-size: 10;
+}
+
+
+p {color:black; font-size:12; text-align:left; font-family:sans-serif;}
+
+
+<style>
+
+.center {
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: left;
+}
+
+
+.text-mit-bild {
+background-image: url(https://media.istockphoto.com/id/2193709791/de/vektor/einstellung-besch%C3%A4ftigung-und-rekrutierung-d%C3%BCnne-liniensymbole-bearbeitbarer-strich-zu-den.jpg?s=612x612&w=0&k=20&c=yhraqqo7XK2_hSmfjj55tGk7YVHzqVes4-c6tWCRIyc=);
+background-size: cover; /* Bild füllt den Bereich aus */
+background-position: center; /* Bild zentrieren */
+padding: 80px; /* Abstand zwischen Text und Bildrand */
+font-family: sans-serif;
+}
+</style>
+
+
+<div class="text-mit-bild">
+
+</div>
+
+
