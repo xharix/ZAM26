@@ -1,11 +1,54 @@
+
 body {
-  font-family:Arial ;  background-color:lightblue ;
+    font-family: Arial;
+    line-height: 1.6;
+    margin: 20px;
 }
+
+header {
+    background-image: url("https://cvjm-nuembrecht.de/wp/wp-content/uploads/2025/04/2025_03_Stellenausschreibung_BannerB-scaled.jpg");
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+nav a {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+ul li {
+    font-size: 20px; 
+}
+
 
 h1 {
-  font-family:  serif; font-weight:bold;text-align: center;
- ;background-color:orange }
+    font-size: 32px; background-color: green; text-align: left;
+   }
 
-footer {
-  background-color:orange ;
+
+h2 {
+    font-size: 26px; background-color: lightgreen;
+  }
+
+
+ h3 {
+    font-size: 20px;
+  }
+
+
+
+p {
+    font-size: 16px; text-align: justify;
+  }
+
+img {
+display : block;
+ margin: auto;
 }
+
+
