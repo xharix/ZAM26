@@ -1,0 +1,9 @@
+body {background-color: #FFFFF0; font-family: verdana;}
+h1 {color: darkgrey; font-size: 24px; text-align: center; font-weight: bold;}
+h2 {color: black; font-size: 20px; text-align: center; font-weight: bold;}
+h3 {color: #32CD32; font-size: 18px; padding: 20px; }
+p {color: black; font-size: 16px; padding: 20px;}
+
+
+li {padding: 20px;}
+img {padding: 40px;}
