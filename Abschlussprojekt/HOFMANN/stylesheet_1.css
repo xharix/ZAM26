@@ -1,9 +1,51 @@
-body {background-color:lightyellow}
-h1 {color:orange; font-size:20px; text-align:center; font-family:Verdana;}
-h2 {color:lightgreen; font-size:17px; text-align:center; font-family:Verdana;}
-h3 {color:lightblue; font-size:15px; text-align:center; font-family:Verdana}
-h4 {color:violet; font-size:13px; text-align:center; font-family:Verdana}
-header {color: hotpink; text-align:center; background-color: lightpink; font-weight: bold; font-family:Arial;}
-p {color:darkgrey; font-size:12px; text-align:center; font-family:Verdana}
+body {background-color:#ffe5cc}
+h1 {color:#663100; font-size:30px; text-align:left; padding: 10px; font-family:Verdana;}
+h2 {color:#803e00; font-size:24px; text-align:left; padding: 10px; font-family:Verdana;}
+h3 {color:#994a00; font-size:15px; text-align:left; padding: 10px; font-family:Verdana}
+h4 {color:#b53600; font-size:13px; text-align:left; padding: 10px; font-family:Verdana}
+header {color: #e66f00; text-align:center; background-color: #ffca99; font-weight: bold; font-family:Arial; padding:18px;}
+p {color:black; font-size:12px; text-align:left; padding: 10px; font-family:Verdana}
 
+.text-im-bild {
+	background-image: url(https://www.buerostuhlpro.de/blog/wp-content/uploads/2024/01/hombre-negocios-adulto-joven-que-mecanografia-usando-computadora-portatil-oficina-1.webp);
+	background-size: cover;
+	background-position: center;
+	padding: 60px;
+	border-width: 5px;
+	border-style: groove;
+	border-color: darkgrey;
+	color: black;
+	font-size: 40px;
+	font-family: Arial;
+	font-weight: bold;
+}
 
+.box {
+  display: flex; /* Flexbox für nebeneinander */
+  align-items: center; /* Vertikale Zentrierung */
+  gap: 15px; /* Abstand zwischen Bild und Text */
+  border: 1px solid #ccc; /* Optional: Rahmen für die Box */
+  padding: 10px; /* Optional: Innenabstand */
+}
+
+.box-img {
+  height: 80px; /* Höhe des Bildes begrenzen */
+  width: auto; /* Seitenverhältnis beibehalten */
+}
+
+ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+}
+
+ul li a {
+	font-size: 24px;
+	color: white;
+	padding: 24px;
+	text-decoration: none;
+}
+
+ul li a:hover {
+	background-color: #e66f00;
+}

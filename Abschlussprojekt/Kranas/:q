@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size; 50px;
+    margin-bottom:0px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: white;
+    text-align: center;
+}
+
+nav li {
+	color: white;
+	font: white:
+	border: red;
+	font-size: 30px;
+}
+
+p {
+    color:white;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
