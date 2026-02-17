@@ -1,0 +1,29 @@
+nav {
+	background-color: blurywood;
+}
+
+ul {
+display: flex;
+justify-conten: center;
+list-style: none;
+}
+
+h1 {
+font-size: 20px;
+color:blurywood;
+}
+
+img {
+width: 40%;
+height: auto;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+p {
+color: black;
+}
