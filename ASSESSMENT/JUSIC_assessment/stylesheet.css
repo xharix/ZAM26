@@ -1,0 +1,67 @@
+body {
+background-color:cornsilk;
+}
+h1 {
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18;
+ }
+ h2 {
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10;
+}
+h3  {
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10;
+}
+p {
+ color: black;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.text-mit-bild {
+background-image: url(https://wk-druck.at/assets/uploads/_scale1500max/12689/wkdruck-visitenkarten.webp);
+background-size: cover; /* Bild füllt den Bereich aus */
+background-position: center; /* Bild zentrieren */
+padding: 20px; /* Abstand zwischen Text und Bildrand */
+color: white; /* Textfarbe anpassen für Lesbarkeit */
+font-family: Arial, sans-serif;
+}
+</style>
+
+<div class="text-mit-bild">
+        <h0>dieser Text hat ein Bild im Hintergrund
+        </h0>
+        </div>
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+/* mouse over link */
+a:hover {
+  color: green;
+}
+
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+
