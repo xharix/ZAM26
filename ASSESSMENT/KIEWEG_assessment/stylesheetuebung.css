@@ -1,0 +1,24 @@
+p {
+	color:#FB8500;
+}
+
+body {
+	background-color: #023047;
+
+}
+
+h1 {
+	text-align: left;
+	color: #FB8500;
+}
+
+h1:hover {
+	background-color:#FFB703;
+	opacity:50%;
+}
+
+header, footer {
+	background-color: #FFB703;
+}
+
+
