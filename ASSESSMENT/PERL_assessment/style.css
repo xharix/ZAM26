@@ -1,0 +1,39 @@
+nav {
+	background-color: burlywood;
+}
+
+ul {
+display: flex;
+justify-content: center;
+list-style: none;
+}
+
+nav ul li a {
+color: black;
+text-decoration: none;
+padding: 10px 20px;
+}
+
+h1 {
+font-size: 20px;
+color:burlywood;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+p {
+color: black;
+}
+
+a {
+color: burlywood;
+
+}
+
+footer {
+background-color: bisque;
+}
