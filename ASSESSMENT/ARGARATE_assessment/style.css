@@ -1,0 +1,33 @@
+body {
+	background-color: ##215E61;
+
+}
+
+#cont {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	background-color: ##F5FBE6;
+	justify-content: center;
+}
+
+#left-cont {
+	padding-right: 30px;
+
+}
+
+h1 {
+	color: #FE7F2D;
+	text-align: center;
+	font-size: 30px;
+}
+
+p {
+	font-size: 25px;
+}
+
+img {
+	object-fit: cover;
+	object-position :0% 80%;
+	height: 300px;	
+}
