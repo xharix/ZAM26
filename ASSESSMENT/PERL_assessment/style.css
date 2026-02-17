@@ -19,11 +19,6 @@ font-size: 20px;
 color:burlywood;
 }
 
-img {
-width: 40%;
-height: auto;
-}
-
 .flex-container {
 	display: flex;
 	justify-content: center;
